@@ -1,0 +1,19 @@
+# Tableau temp/backup files
+~*.twbr
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
